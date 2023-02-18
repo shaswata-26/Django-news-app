@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: shaswatapanda3@gmail.com
+Date: Fri, 17 Feb 2023 11:04:26 -0000
+Message-ID: <167663186677.2340.9823503938880324927@DESKTOP-TA8LR8O>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/account/reset/MQ/bjr4ve-f658374f2eb5f73089b780c719917720/
+
+Your username, in case you’ve forgotten: shaswata
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
